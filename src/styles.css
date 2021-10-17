@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+label {
+  margin-top: 20px;
+}
+select {
+  margin-bottom: 20px;
+}
+input {
+  margin-bottom: 20px;
+}
+button {
+  margin: 10px;
+}
